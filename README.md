@@ -1,2 +1,2 @@
-# PrepCourseHenry
-Haciendo pruebas de uso de ejercicio de git-curso henry
+Este proyecto es una prueba de como clonarlo para bajarlo a mi Desktop local y como subirlo de nuevo con cambios a github.
+vicman77
